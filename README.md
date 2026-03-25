@@ -26,4 +26,5 @@ Apprentice (FIAE) | Fullstack & AppSec | Bavaria
 ## Contact
 
 LinkedIn: www.linkedin.com/in/daniel-b-471036353
+
 E-Mail: daniblb@icloud.com
