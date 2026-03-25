@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey, I’m Daniel 😊
 
-<!--
-**daniblb/daniblb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apprentice (FIAE) | Fullstack & AppSec | Bavaria
 
-Here are some ideas to get you started:
+## What I’m Learning
+- Web Security (PortSwigger)
+- Python for Security
+- TryHackMe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- Frontend
+  - HTML/CSS & JavaScript
+  - Svelte
+  - PHP
+  - Bootstrap
+
+- Backend
+  - .NET
+  - REST APIs
+  - SQL
+
+- Other
+  - Python
+  - Java
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/daniel-b-471036353
+E-Mail: daniblb@icloud.com
