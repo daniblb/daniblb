@@ -25,6 +25,6 @@ Apprentice (FIAE) | Fullstack & AppSec | Bavaria
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/daniel-b-471036353
+LinkedIn: www.linkedin.com/in/daniel-bolbocenau
 
-E-Mail: daniblb@icloud.com
+E-Mail: danielbolboceanu@gmail.com
