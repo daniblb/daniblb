@@ -1,88 +1,91 @@
-# 👋 Hey, ich bin Daniel
+# Hey, ich bin Daniel 👋
 
-💻 FIAE-Azubi mit Fokus auf **Application Security** und **Fullstack Development**  
-📍 Bayern, Deutschland  
-🎓 Abschluss: August 2027  
-
----
-
-## 🎯 Worauf ich hinarbeite
-
-Ich entwickle mich in Richtung **Application Security Engineer** mit Fokus auf moderne Bedrohungen:
-
-- 🔐 AppSec Grundlagen & Secure SDLC
-- 🤖 AI/ML Security (LLMs, Prompt Injection, OWASP LLM Top 10)
-- 🛡️ Offensive Security (Pentesting, Bug Bounties, Vulnerability Research)
+**FIAE-Azubi** mit Fokus auf **Application Security** und **Fullstack Development** — Bayern, Deutschland.  
+Ich baue Dinge, breche Dinge (kontrolliert), und dokumentiere beides.
 
 ---
 
-## 📚 Aktuell lerne ich
+## 🎯 Ziel
 
-- 🔐 Web Application Security (PortSwigger Academy)
-- 🐍 Python für Security Automation
-- 🚩 Offensive Security Labs (TryHackMe, HackTheBox)
+Ich entwickle mich zum **Application Security Engineer** mit Schwerpunkt auf modernen Angriffsflächen:
+
+- **Secure SDLC** — Security schon im Entwicklungsprozess verankern, nicht erst beim Deployment
+- **AI/ML Security** — LLM-spezifische Bedrohungen: Prompt Injection, Jailbreaks, OWASP LLM Top 10
+- **Offensive Security** — Web App Pentesting, Bug Bounties (HackerOne, Bugcrowd, YesWeHack), Vulnerability Research
+
+Zertifizierungsweg: `CompTIA Security+` → `eJPT` → `OSCP`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-- HTML / CSS
-- JavaScript
-- Svelte
-- PHP
-- Bootstrap
+**Frontend**
+`Svelte 5` `JavaScript` `HTML/CSS` `Bootstrap`
 
-### ⚙️ Backend
-- .NET Framework
-- C#
-- REST APIs
-- SQL / MySQL
+**Backend**
+`C#` `.NET / ASP.NET Core` `REST APIs` `SQL / MySQL`
 
-### 🔐 Security & Tools
-- Python
-- Git / GitLab
-- JIRA
-- Networking (IPv4 / IPv6)
-- Linux
+**Security & Tooling**
+`Python` `Burp Suite` `Linux` `Git / GitLab CI/CD` `Networking (IPv4/IPv6/Subnetting)`
 
-### 🔌 Hardware & IoT
-- Raspberry Pi
-- ESP32
-- Zigbee
-- Home Automation
+**Hardware & IoT**
+`Raspberry Pi` `ESP32` `Zigbee` `Home Assistant` `Ollama / Whisper`
 
 ---
 
 ## 🚀 Projekte
 
-### 🎮 Minecraft Server Infrastruktur
-Headless Purpur Server auf Raspberry Pi 4  
+### 🔐 Pocket AI Lab
+Portabler Multi-Agent-KI-Assistent auf einem Raspberry Pi — konzipiert als AppSec-Demonstrationsobjekt.
 
-**Fokus:**  
-Linux Server Administration • Automatisierung • Service-Orchestrierung  
+**Fokus:** LLM-Sicherheitsrisiken in embedded Umgebungen — Prompt Injection, Model Abuse, lokale Inference ohne Cloud-Abhängigkeit  
+**Tech:** `Raspberry Pi` `Ollama` `Whisper` `Python` `RGB LEDs` `Touchscreen` `Multi-Agent Architecture`
 
 ---
 
 ### 🏠 JARVIS Home Assistant
-Eigenes Smart-Home-System basierend auf Home Assistant OS  
+Vollständig lokales Smart-Home-System — kein Cloud-Zwang, kein externer Datenzugriff.
 
-**Tech:**  
-Intel N100 Mini-PC • lokale AI (Ollama/Whisper) • ESP32 Sensoren • Zigbee • Wake-on-LAN  
+**Fokus:** Netzwerksegmentierung, lokale AI-Inference, IoT-Sicherheit  
+**Tech:** `Home Assistant OS` `Intel N100 Mini-PC` `Ollama / Whisper` `ESP32` `Zigbee` `Wake-on-LAN`
 
 ---
 
-## 📈 Aktiv auf
+### 🎮 Minecraft Server Infrastruktur
+Headless Purpur-Server auf Raspberry Pi 4 — komplett über SSH verwaltet.
 
-- 💻 TryHackMe → Hands-on Offensive Security
-- 🎯 HackTheBox → Pentesting Labs
+**Fokus:** Linux Server Administration, systemd Service Management, Netzwerkkonfiguration, Backup-Automatisierung  
+**Tech:** `Raspberry Pi OS Lite` `Java 21` `systemd` `Purpur` `SSH` `cron`
+
+---
+
+### 🌐 Portfolio Website
+Statische Portfolio-Seite auf GitHub Pages, gebaut ohne Frameworks — reines HTML/CSS/JS.
+
+**Fokus:** Sauberes, wartbares Markup ohne Build-Tool-Overhead; responsives Design ohne Abhängigkeiten  
+**Tech:** `HTML` `CSS` `JavaScript` `GitHub Pages`  
+🔗 [danielbolbocenau.github.io](https://daniblb.github.io/danielbolbocenau.github.io/)
+
+---
+
+### ⚙️ Enterprise Monorepo — Svelte 5 Migration
+Mitarbeit an einer TurboRepo-basierten Unternehmensanwendung; Refactoring geteilter UI-Komponenten im Rahmen einer Svelte-5-Migration.
+
+**Fokus:** Komponentenarchitektur, Breaking Changes (Event-Direktiven → Callback Props), Shared-Package-Patterns in Monorepos  
+**Tech:** `Svelte 5` `TurboRepo` `TypeScript` `ASP.NET Core` `GitLab CI/CD`
+
+---
+
+## 📚 Aktuell
+
+| Was | Wo |
+|-----|-----|
+| Web Application Security | [PortSwigger Web Security Academy](https://portswigger.net/web-security) |
+| Offensive Security Labs | TryHackMe / HackTheBox |
+| Security Automation | Python (Scripting, Tool-Building) |
 
 ---
 
 ## 📫 Kontakt
 
-💼 LinkedIn: www.linkedin.com/in/daniel-bolbocenau  
-📧 Email: danielbolboceanu@gmail.com  
-🌐 Portfolio: [https://daniblb.github.io/danielbolbocenau.github.io/ ](https://daniblb.github.io/danielbolbocenau.github.io/)
-
----
+[LinkedIn](https://www.linkedin.com/in/daniel-bolbocenau) · [danielbolboceanu@gmail.com](mailto:danielbolboceanu@gmail.com) · [Portfolio](https://daniblb.github.io/danielbolbocenau.github.io/)
